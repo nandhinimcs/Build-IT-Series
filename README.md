@@ -25,8 +25,8 @@ With the power of **GitHub Copilot**, participants will build their **own develo
 ---
 
 ## ⏳ Format of the 4-Hour Coding Sprint
-- **3 Hours:** Hands-on coding session (building a portfolio website using GitHub Copilot)
-- **1 Hour:** Debugging, discussions, final touches, and showcasing outcomes
+- **3.5 Hours:** Hands-on coding session (building a portfolio website using GitHub Copilot)
+- **1/2 Hour:** Discussions, final touches, and showcasing outcomes
 
 ---
 
