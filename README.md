@@ -25,14 +25,14 @@ With the power of **GitHub Copilot**, participants will build their **own develo
 ---
 
 ## ⏳ Format of the 4-Hour Coding Sprint
-- **3.5 Hours:** Hands-on coding session (building a portfolio website using GitHub Copilot)
-- **1/2 Hour:** Discussions, final touches, and showcasing outcomes
+- **3 Hours:** Hands-on coding session (building a portfolio website using GitHub Copilot)
+- **1 Hour:** Debugging, discussions, final touches, and showcasing outcomes
 
 ---
 
 ## 🎁 What We'll Provide to Participants
 - **Step-by-step guidance** from experienced mentors
-- **GitHub Copilot access & setup help**
+- **GitHub Copilot access & setup help** ([Set up GitHub Copilot](https://github.com/features/copilot))
 - **Reference UI designs** for inspiration
 - **Dedicated proctors** to help debug and fix errors
 - **Networking opportunities** with industry experts
@@ -40,7 +40,7 @@ With the power of **GitHub Copilot**, participants will build their **own develo
 ---
 
 ## 🔥 What We Expect from Participants
-- **Bring your own laptop** with VS Code installed
+- **Bring your own laptop** with VS Code installed ([Download VS Code](https://code.visualstudio.com/download))
 - **Have GitHub and GitHub Copilot set up** before the event
 - **Be ready to code—no passive learning!**
 - **Engage in discussions and ask questions**
@@ -51,6 +51,14 @@ With the power of **GitHub Copilot**, participants will build their **own develo
 - A **fully functional portfolio website** hosted on GitHub Pages ([Tutorial Here](https://youtu.be/vaRxVb60cAk?si=pFX47YjVfsbN71RG))
 - A **GitHub repository link** containing the project code
 - A **short reflection** on what they learned during the sprint
+
+---
+
+## 🌍 Do You Want to Organize This in Your City/College?
+Drop me a **DM here**: [LinkedIn - WizardLocks](https://www.linkedin.com/in/wizardlocks/)
+
+## 🏆 Want to Join as a Mentor or Proctor?
+Fill out this **form**: [Mentor/Proctor Application](https://forms.office.com/r/85PxabA70q)
 
 ---
 
