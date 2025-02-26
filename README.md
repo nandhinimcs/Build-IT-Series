@@ -55,7 +55,7 @@ With the power of **GitHub Copilot**, participants will build their **own develo
 ---
 
 ## 🌍 Do You Want to Organize This in Your City/College?
-Drop me a **DM here**: [LinkedIn - WizardLocks](https://www.linkedin.com/in/wizardlocks/)
+Fill this form: [Organize Build Tour](https://forms.office.com/r/YSSPyEi9j5)
 
 ## 🏆 Want to Join as a Mentor or Proctor?
 Fill out this **form**: [Mentor/Proctor Application](https://forms.office.com/r/85PxabA70q)
