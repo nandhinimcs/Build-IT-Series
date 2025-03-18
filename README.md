@@ -13,13 +13,22 @@ With the power of **GitHub Copilot**, participants will build their **own develo
 
 ---
 
-## 👥 Mentor List (Example)
-| Name | LinkedIn | City |
-|------|---------|------|
-| John Doe | [LinkedIn Profile](https://linkedin.com) | Bangalore |
-| Jane Smith | [LinkedIn Profile](https://linkedin.com) | Mumbai |
-| Alex Brown | [LinkedIn Profile](https://linkedin.com) | Delhi |
-
+## 👥 Mentor List  
+| Name | LinkedIn | City | Mentor/Proctor |  
+|------|---------|------|--------|  
+| Priya Kutwal | [LinkedIn Profile](https://www.linkedin.com/in/priyakutwal/) | Pune | Proctor |  
+| Ashish Ujjwal | [LinkedIn Profile](https://www.linkedin.com/in/ashish-ujjwal-a9bb03228/) | Lucknow | Proctor |  
+| Ashok Vishwakarma | [LinkedIn Profile](https://linkedin.com/in/avishwakarmadev) | Delhi NCR | Mentor |  
+| Prarthana Bhat | [LinkedIn Profile](https://www.linkedin.com/in/prarthana-bhat-4a8158129/) | Bengaluru | Proctor |  
+| Pranav Agarwal | [LinkedIn Profile](https://www.linkedin.com/in/pranav-agr/) | Delhi | Proctor |  
+| Mohit | [LinkedIn Profile](https://www.linkedin.com/in/mohit-frontend-developer/) | Bengaluru | Proctor |  
+| Krishi Shah | [LinkedIn Profile](https://www.linkedin.com/in/krishishah1211) | Mumbai | Proctor |  
+| Vipul Jain | [LinkedIn Profile](https://www.linkedin.com/in/vipul0309/) | Bangalore | Mentor |  
+| S Ravi Kumar | [LinkedIn Profile](https://www.linkedin.com/in/techierathore/) | Greater Noida | Mentor |  
+| Aman Kumar | [LinkedIn Profile](https://www.linkedin.com/in/aman-kumar-51089120b) | Gurugram | Proctor |  
+| Neel Shah | [LinkedIn Profile](https://www.linkedin.com/in/neelcshah/) | Ahmedabad | Mentor |  
+| Sunil Kumar | [LinkedIn Profile](https://www.linkedin.com/in/sunilkumardigi/) | Bangalore | Mentor |  
+| Haribabu Vallapuri | [LinkedIn Profile](https://www.linkedin.com/in/haribabu-vallapuri-380a975/) | Bengaluru | Mentor |  
 *(More mentors will be added as we finalize the lineup.)*
 
 ---
